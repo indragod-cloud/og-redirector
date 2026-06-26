@@ -1,5 +1,4 @@
 # 🔗 OG Link Generator 
-
 Upload gambar → isi detail → dapat link → share ke Facebook dengan preview besar!
 
 ---
